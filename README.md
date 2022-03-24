@@ -1,2 +1,2 @@
 # Kuruma
-Web Application
+Web Application ***showcasing*** an online used vehicle purchasing platform
